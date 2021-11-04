@@ -8,6 +8,21 @@ img{
     width: 200px;
     height: 300px;
 }
-.img-start{
-    border:20px plum ;
+.img-start {
+    border: 8px solid peachpuff;
+}
+
+#img-cover{
+    border: 8px solid pink;
+}
+.relative{
+    background: peachpuff;
+    width: 500px;
+    height: 500px;
+    margin-left: 30px
+}
+.absoiute{
+    background: plum;
+    width: 100px;
+    height: 100px;
 }
